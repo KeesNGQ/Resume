@@ -1,0 +1,50 @@
+
+    <head>
+        <title>Thembisile Ngqakaza </title>
+    </head>
+
+    <body>
+        <img src="Burpee League Logo Final 1.png"style="width:100px"><br>
+        <a href="Home Page.html">Home Page</a><b>|</b>
+        <a href="About.html">About</a>
+        <h2 style="color: brown"> A few Musings</h2>
+        <p>Content<br>Today </p>
+        <p><em>Today</em> is the first day <br>of the <strong>rest of your life</strong></p>
+        <p>
+            <h2 style="color: red">Stand Guard at the door of your Mind, Thembisile</h2>
+            Don't allow Yourself for a second to relax towards<br>
+            anything that tries to delay Your dreams.
+        </p>
+        <!--Make sure you add a comment here-->
+        <p><b>The Burpee League</b><br>
+            <i>And Burpee Games</i>
+            <!--dont discount whats written below-->
+            <br><sub>Will usher a new era</sub>
+            <br><sup>From End of September 2020</sup>
+            <br><u><b>Fasttwitch.tv is born </b></u>
+            <br><b><big>I can't wait to see what it will bring</big><br></b>
+            <img src="https://via.placeholder.com/468x60?text=Visit+Blogging.com+Now">
+        </p>
+
+        <h1>Quid enim possumus hoc agere divinius?</h1>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <mark>At certe gravius.</mark> <b>Cur haec eadem
+                Democritus?</b> Ecce aliud simile dissimile. Non semper, inquam; Fortemne possumus dicere eundem illum
+            Torquatum? </p>
+
+        <h2 id="page1"><mark><b>Page 1</b></mark>Sit hoc ultimum bonorum, quod nunc a me defenditur;</h2>
+
+        <p><a href='http://loripsum.net/' target='_blank'>Duo Reges: constructio interrete.</a> <a
+                href='http://loripsum.net/' target='_blank'>Ego vero isti, inquam, permitto.</a> Non potes, nisi
+            retexueris illa. Recte dicis; <i>Iam in altera philosophiae parte.</i> Peccata paria. </p>
+
+             <address>
+            Contact me at <a  href="mailto:keesngq@gmail.com?subject=Test Email&body = Email and Body content">Thembisile Ngqakaza</a>
+            <br>
+            Visit us in Austin Texas United States of America
+            <br>
+            <a href ="tel: 6319076519">6319076519</a>
+
+
+        </address>
+    </body>
